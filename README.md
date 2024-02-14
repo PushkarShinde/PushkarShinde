@@ -19,32 +19,35 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Power BI" width="26px" src="https://www.coolblue.com/wp-content/uploads/2022/09/Microsoft-Power-BI-Symbol.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][reactplaylist]
-
-[<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />][cssplaylist]
-
-[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="AndroidStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-
-
+<img align="left" alt="Excel" width="30px" src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" />
+<img align="left" alt="Visual Basic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+<img align="left" alt="Google sheets" width="30px" src="https://martechwithme.com/wp-content/uploads/2020/12/2000px-Google_Sheets_logo.svg.png" />
+<img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="Power BI" width="30px" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
+<img align="left" alt="Tableau" width="30px" src="https://www.svgrepo.com/download/354428/tableau-icon.svg" />
+<img align="left" alt="Postgre SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Azure SQL database" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="left" alt="SQL server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Jupyter Notebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
+
+
+## Connect with me!
+<p align="left">
+<a href="https://twitter.com/pushkarshinde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushkarshinde16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pushkar shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar shinde" height="30" width="40" /></a>
+<a href="https://instagram.com/pushkarshinde__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkarshinde__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pushkarshinde24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushkarshinde24" height="30" width="40" /></a>
+</p>
+
 <br />
-
-
 
 ## 📈 Git Stats
 
@@ -54,13 +57,8 @@
 
 
 
----
-
-
-
 [website]: https://www.novypro.com/profile_projects/pushkarshinde
 [course]: #
 [twitter]: https://twitter.com/PushkarShinde16
-[youtube]: #
-[instagram]: 
+[youtube]: # 
 [linkedin]: https://www.linkedin.com/in/pushkar-shinde-636973221/
