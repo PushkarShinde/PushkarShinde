@@ -1,31 +1,66 @@
-<h1 align="center">Hi 👋, I'm Pushkar Shinde</h1>
-<h3 align="center">A passionate and aspiring Data Analyst from India</h3>
+<p align="center">
+<a href="https://github.com/PushkarShinde">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pushkar Shinde;Data Analytics+%7C+Machine Learning+%7C+Advanced Excel;SQL+%7C+R Programming+%7C+Power BI+%7C+Python" alt="Typing SVG" />
+</a>
+<br/>
+<a href="https://github.com/PushkarShinde">
+    <img src="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</br>
 
-- 🔭 I’m currently working on **SQL and ML Projects**
+## I'm a Student, an Aspiring Data Analyst, and a Business Intelligence Enthusiast!!
 
-- 🌱 I’m currently learning **DAX in Power BI**
+- 🔭 I pursued my Bachelor's from Rashtrasant Tukdoji Maharaj Nagpur University.
+- 🌱 I’m currently learning... everything, lol 🤣
+- 👯 I’m looking forward to connecting with like-minded and curious individuals.
+- 🥅 2024 Goals: Learn Python for Data Analysis, AWS, and RPA using UiPath.
+- ⚡ Fun fact: I didn't know what is YouTube, Facebook, and Instagram until I was 15!
 
-- 👯 I’m looking to collaborate on **any unique analytics projects**
 
-- 🤝 I’m looking for help with **SQL and Pandas**
+### Languages and Tools:
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/pushkarshinde](https://www.novypro.com/profile_projects/pushkarshinde)
+[<img align="left" alt="Power BI" width="26px" src="https://www.coolblue.com/wp-content/uploads/2022/09/Microsoft-Power-BI-Symbol.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pushkar-shinde-636973221/](https://www.linkedin.com/in/pushkar-shinde-636973221/)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 
-- 💬 Ask me about **Excel, SQL, Power BI.**
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][reactplaylist]
 
-- 📫 How to reach me **pushkarshinde249@gmail.com**
+[<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />][cssplaylist]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pushkarshinde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushkarshinde16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pushkar shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar shinde" height="30" width="40" /></a>
-<a href="https://instagram.com/pushkarshinde__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkarshinde__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pushkarshinde24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushkarshinde24" height="30" width="40" /></a>
-</p>
+[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="AndroidStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="OpenCV" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkarshinde&show_icons=true&locale=en&layout=compact" alt="pushkarshinde" /></p>
+
+<br />
+<br />
+
+
+
+## 📈 Git Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PushkarShinde&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PushkarShinde&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PushkarShinde&theme=dracula)
+
+
+
+---
+
+
+
+[website]: https://www.novypro.com/profile_projects/pushkarshinde
+[course]: #
+[twitter]: https://twitter.com/PushkarShinde16
+[youtube]: #
+[instagram]: 
+[linkedin]: https://www.linkedin.com/in/pushkar-shinde-636973221/
