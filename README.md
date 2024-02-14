@@ -21,7 +21,7 @@
 
 <img align="left" alt="Excel" width="30px" src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" />
 <img align="left" alt="Visual Basic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
-<img align="left" alt="Google sheets" width="30px" src="https://martechwithme.com/wp-content/uploads/2020/12/2000px-Google_Sheets_logo.svg.png" />
+<img align="left" alt="Google sheets" width="26px" src="https://martechwithme.com/wp-content/uploads/2020/12/2000px-Google_Sheets_logo.svg.png" />
 <img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="Power BI" width="30px" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
 <img align="left" alt="Tableau" width="30px" src="https://www.svgrepo.com/download/354428/tableau-icon.svg" />
