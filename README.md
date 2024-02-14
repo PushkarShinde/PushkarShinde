@@ -36,9 +36,8 @@
 <img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
-<br />
 
-## Connect with me!
+### Connect with me!
 <p align="left">
 <a href="https://twitter.com/pushkarshinde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushkarshinde16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pushkar shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar shinde" height="30" width="40" /></a>
