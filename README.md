@@ -48,8 +48,6 @@
 <a href="https://www.hackerrank.com/pushkarshinde24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushkarshinde24" height="30" width="40" /></a>
 </p>
 
-<br />
-
 --------
 
 ## 📈 Git Stats
