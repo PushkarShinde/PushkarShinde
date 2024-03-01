@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I didn't know what is YouTube, Facebook, and Instagram until I was 15!
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Excel" width="30px" src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" />
 <img align="left" alt="Visual Basic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
@@ -39,16 +39,10 @@
 <br />
 
 
-### Connect with me!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-shinde-636973221/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PushkarShinde16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pushkarshinde__/) 
 
-<p align="left">
-<a href="https://twitter.com/pushkarshinde16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushkarshinde16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pushkarshinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkarshinde" height="30" width="40" /></a>
-<a href="https://instagram.com/pushkarshinde__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkarshinde__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pushkarshinde24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushkarshinde24" height="30" width="40" /></a>
-</p>
-
---------
+<br />
 
 ## 📈 Git Stats
 
