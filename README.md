@@ -11,10 +11,10 @@
 ## I'm a Student, an Aspiring Data Analyst, and a Business Intelligence Enthusiast!!
 
 - 🔭 I pursued my Bachelor's from Rashtrasant Tukdoji Maharaj Nagpur University.
-- 🌱 I’m currently learning... everything, lol 🤣
+- 🌱 I’m currently learning... everything, lol!
 - 👯 I’m looking forward to connecting with like-minded and curious individuals.
 - 🥅 2024 Goals: Learn Python for Data Analysis, AWS, and RPA using UiPath.
-- ⚡ Fun fact: I didn't know what is YouTube, Facebook, and Instagram until I was 15!
+- ⚡ Fun fact: I didn't know what are YouTube, Facebook, and Instagram until I was 15!
 
 
 ## Languages and Tools:
