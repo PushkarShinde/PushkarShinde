@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/PushkarShinde">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pushkar Shinde;Data Analytics+%7C+Machine Learning+%7C+Advanced Excel;SQL+%7C+R Programming+%7C+Power BI+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=My Tech Stack:;C+%7C+Cpp+%7C+C-Sharp+%7C+Java+%7C+DSA+%7C+Machine Learning;Game Development+%7C+SQL+%7C+NoSQL+%7C+Python" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://github.com/PushkarShinde">
