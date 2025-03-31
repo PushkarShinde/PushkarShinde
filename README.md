@@ -36,7 +36,6 @@
 <img align="left" alt="Power BI" width="30px" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
 <img align="left" alt="Tableau" width="30px" src="https://www.svgrepo.com/download/354428/tableau-icon.svg" />
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Google Sheets" width="25px" src="https://martechwithme.com/wp-content/uploads/2020/12/2000px-Google_Sheets_logo.svg.png" />
 <img align="left" alt="Excel" width="30px" src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" />
 <img align="left" alt="UiPath" width="30px" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1649160715" />
 
