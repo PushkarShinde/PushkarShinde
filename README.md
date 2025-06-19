@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://github.com/PushkarShinde">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=My Tech Stack:;C+%7C+Cpp+%7C+C-Sharp+%7C+Java+%7C+DSA+%7C+Machine Learning;Game Development+%7C+SQL+%7C+NoSQL+%7C+Python" alt="Typing SVG" />
-</a>
-<br/>
-<a href="https://github.com/PushkarShinde">
-    <img src="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-</br>
+  <a href="https://github.com/PushkarShinde">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=My+Tech+Stack:;C+%7C+Cpp+%7C+C%23+%7C+Java+%7C+DSA+%7C+Machine+Learning;Game+Development+%7C+SQL+%7C+NoSQL+%7C+Python" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://github.com/PushkarShinde">
+    <img src="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  </a>
+</p>
 
 ## I'm a Student!!
 
