@@ -17,13 +17,9 @@
 
 ---
 
-## 🎓 I'm a Student!!
-
-- 🔭 Pursuing Masters of Computer Application @ **NIT Allahabad**
-- 🌱 Currently learning: C, C++, Java, DSA, Full Stack Web Dev, ML, and Data Analytics
-- 👯 Looking to connect with like-minded tech enthusiasts
-- 🥅 **2024 Goal**: Master DSA for coding interviews
-- ⚡ Fun Fact: I didn’t know what YouTube, Facebook, or Instagram were until I turned 15 😄
+## 🎓Projects I am working on at present:
+- A clone of the Scribble game
+- SpringBoot application
 
 ---
 
