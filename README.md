@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/PushkarShinde">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=My+Tech+Stack:;C+%7C+Cpp+%7C+C%23+%7C+Java+%7C+DSA+%7C+Machine+Learning;Game+Development+%7C+SQL+%7C+NoSQL+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=My+Tech+Stack:;Java+%7C+C+%7C+Cpp+%7C+Spring+%7C+DSA+%7C+SpringBoot;Web+Development+%7C+SQL+%7C+NoSQL+%7C+MongoDB" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://github.com/PushkarShinde">
@@ -32,8 +32,8 @@
 <img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Maven" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <br/><br/>
 
