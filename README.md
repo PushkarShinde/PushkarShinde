@@ -69,9 +69,12 @@ const pushkar = {
 
 <h3 align="center">AI Fitness Application</h3>
 <div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img style="margin: 10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img style="margin: 8px" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img style="margin: 8px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img style="margin: 8px" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+<img style="margin: 8px" src="https://img.shields.io/badge/Keycloak-0075A8?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+<img style="margin: 8px" src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+<img style="margin: 8px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <br><br>
 AI-powered workout plan generation platform with Google Gemini integration.
 <br><br>
