@@ -40,6 +40,8 @@ const pushkar = {
 };
 ```
 
+---
+
 ## 💻 Languages & Tech
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
