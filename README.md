@@ -144,9 +144,11 @@ Full-stack EdTech platform with AI interviews, roadmaps, blogs, and real-time fe
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/PushkarShinde/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
