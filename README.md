@@ -1,8 +1,10 @@
 <h1 align="center">Hey there, I’m Pushkar 👋</h1>
-<h3 align="center">MCA Student @ NIT Allahabad | Code Enthusiast | Tech Explorer 🇮🇳</h3>
+<h3 align="center">Java Enthusiast | Tech Explorer from INDIA</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PushkarShinde&label=PROFILE+VIEWS&style=flat-square&color=brightgreen" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=ayush5071&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/PushkarShinde?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
 <p align="center">
@@ -11,11 +13,32 @@
   </a>
   <br/>
   <a href="https://github.com/PushkarShinde">
-    <img src="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+      <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
   </a>
 </p>
 
 ---
+
+## 🎯 About Me
+
+```typescript
+const pushkar = {
+    college_university: "MNNIT Allahabad, India",
+    education: "MCA in Computer Science and Engineering",
+    currentCPI: 8.34,
+    role: "Java Developer",
+    
+    currentFocus: [
+        "System Design & Architecture",
+        "Spring framework and Spring Boot", 
+        "Data Structures & Algorithms",
+        "AI/ML Integration",
+        "Open Source Contributions"
+    ],
+    
+    funFact: "I turn coffee into Applications ☕ → 💻"
+};
+```
 
 ## 🎓Projects I am working on at present:
 - A clone of the Scribble game
@@ -40,29 +63,10 @@
 
 ---
 
-## 🧰 Tools I Use
-
-<img align="left" alt="Power BI" width="30px" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
-<img align="left" alt="Tableau" width="30px" src="https://www.svgrepo.com/download/354428/tableau-icon.svg" />
-<img align="left" alt="Jupyter Notebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Excel" width="30px" src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" />
-<img align="left" alt="UiPath" width="30px" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1649160715" />
-<br/><br/>
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-shinde-636973221/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PushkarShinde16)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pushkarshinde__/)
-
----
-
-## 📈 GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PushkarShinde&theme=dracula)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PushkarShinde&theme=dracula)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PushkarShinde&theme=dracula)
 
 ---
 
@@ -71,6 +75,27 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PushkarShinde&theme=gruvbox&column=6&margin-w=10&margin-h=15" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <!-- GitHub Top Languages -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarShinde&layout=compact&title_color=37BCF6&text_color=ffffff&bg_color=22272e" alt="Top Languages" />
+    </td>
+    <td>
+     <!-- GitHub Streak -->
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=PushkarShinde&theme=dark&background=22272e&ring=37BCF6&fire=37BCF6&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff.svg" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<img height="240em" src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarShinde&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 
