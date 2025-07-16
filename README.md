@@ -40,12 +40,6 @@ const pushkar = {
 };
 ```
 
-## 🎓Projects I am working on at present:
-- A clone of the Scribble game
-- SpringBoot application
-
----
-
 ## 💻 Languages & Tech
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -63,18 +57,57 @@ const pushkar = {
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkar-shinde-636973221/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PushkarShinde16)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pushkarshinde__/)
+## 🚀 Featured Projects
 
----
+<div align="center">
 
-## 🏆 GitHub Trophies
+<table>
+<tr>
+<td width="100%">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PushkarShinde&theme=gruvbox&column=6&margin-w=10&margin-h=15" />
-</p>
+<h3 align="center">AI Fitness Application</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img style="margin: 10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<br><br>
+AI-powered workout plan generation platform with Google Gemini integration.
+<br><br>
+<a href="https://github.com/PushkarShinde/AI-Fitness-App" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="" target="_blank"> <!--Add the hosted link here-->
+<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</div>
+
+<!--
+</td>
+<td width="50%">
+
+<h3 align="center">🎓 Quants EdTech Platform</h3>
+<div align="center">
+<img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<br><br>
+Full-stack EdTech platform with AI interviews, roadmaps, blogs, and real-time features. Integrated Gemini AI for mock interviews.
+<br><br>
+<a href="https://github.com/Ayush5071/quantsprogrammer" target="_blank">
+<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://quantsprogrammer.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</div>
+
+</td>
+-->
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -99,13 +132,56 @@ const pushkar = {
 
 ---
 
+## 📈 Coding Journey
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/PushkarShinde?theme=dark&font=Fira%20Code&hide_border=true&ext=contest" alt="LeetCode Stats"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/PushkarShinde/PushkarShinde/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/PushkarShinde/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PushkarShinde&theme=gruvbox&column=6&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pushkar-shinde-636973221/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="" target="_blank"> <!--Add portfolio website link here-->
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:pushkarshinde249@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/pushkarshinde__/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/PushkarShinde16" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://www.hackerrank.com/profile/pushkarshinde249" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+</div>
 
 <!-- Hidden Profile Links -->
 
