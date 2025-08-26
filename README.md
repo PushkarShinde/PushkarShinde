@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I’m Pushkar 👋</h1>
 <h3 align="center">Java Enthusiast | Tech Explorer from INDIA</h3>
-
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Rainbow Divider" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayush5071&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
@@ -191,7 +191,7 @@ Full-stack EdTech platform with AI interviews, roadmaps, blogs, and real-time fe
 </a>
 
 </div>
-
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Rainbow Divider" />
 <!-- Hidden Profile Links -->
 
 [website]: https://www.novypro.com/profile_projects/pushkarshinde
