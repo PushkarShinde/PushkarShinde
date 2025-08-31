@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I’m Pushkar 👋</h1>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Rainbow Divider" />
+<h1 align="center">Hey there, I’m Pushkar!</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayush5071&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
