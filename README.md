@@ -65,7 +65,7 @@ const pushkar = {
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 <h3 align="center">AI Fitness Application</h3>
 <div align="center">  
@@ -76,7 +76,8 @@ const pushkar = {
 <img style="margin: 8px" src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
 <img style="margin: 8px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <br><br>
-AI-powered workout plan generation platform with Google Gemini integration.
+Architected a scalable multi-microservices fitness platform with Spring Boot, Gemini API, Eureka, Spring Cloud Gateway, RabbitMQ, &
+PostgreSQL.
 <br><br>
 <a href="https://github.com/PushkarShinde/AI-Fitness-App" target="_blank">
 <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -86,28 +87,27 @@ AI-powered workout plan generation platform with Google Gemini integration.
 </a>
 </div>
 
-<!--
 </td>
 <td width="50%">
 
-<h3 align="center">🎓 Quants EdTech Platform</h3>
+<h3 align="center">Expense Tracker</h3>
 <div align="center">
-<img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img style="margin: 10px; padding:10px;" src="https://img.shields.io/badge/C%20language%20-%20blue%20" alt="C" />
+<img style="margin: 10px; padding:10px;" src="https://img.shields.io/badge/AES%20Crypto%20-%20Green" alt="AES Crypto" />
 <br><br>
-Full-stack EdTech platform with AI interviews, roadmaps, blogs, and real-time features. Integrated Gemini AI for mock interviews.
+Developed a secure CLI-based expense manager in pure C with full CRUD support.
+Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, protected by password decryption at launch.
 <br><br>
-<a href="https://github.com/Ayush5071/quantsprogrammer" target="_blank">
+<a href="https://github.com/PushkarShinde/expense-tracker" target="_blank">
 <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://quantsprogrammer.vercel.app" target="_blank">
+<a href="https://github.com/PushkarShinde/expense-tracker" target="_blank">
 <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </div>
 
 </td>
--->
+
 
 </tr>
 </table>
