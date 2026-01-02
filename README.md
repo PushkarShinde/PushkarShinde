@@ -1,13 +1,13 @@
 <h1 align="center">Hey there, I’m Pushkar!</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush5071&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PushkarShinde&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/PushkarShinde?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
 <p align="center">
   <a href="https://github.com/PushkarShinde">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=200&multiline=true&width=500&height=80&lines=My+Tech+Stack:;Java+%7C+C+%7C+Cpp+%7C+Spring+%7C+DSA+%7C+SpringBoot;Web+Development+%7C+SQL+%7C+NoSQL+%7C+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=500&pause=1000&multiline=true&width=500&height=80&lines=My+Tech+Stack:;Java+%7C+C+%7C+ReactJS+%7C+Spring+%7C+TypeScript+%7C+SpringBoot;Docker+%7C+SQL+%7C+Kubernetes+%7C+MongoDB" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://github.com/PushkarShinde">
@@ -50,11 +50,13 @@ const pushkar = {
 <img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
 <img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Maven" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="Maven" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img align="left" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <br/><br/>
 
 ---
