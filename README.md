@@ -1,17 +1,27 @@
-<h1 align="center">Hey there, I’m Pushkar!</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PushkarShinde&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/PushkarShinde?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</p>
+<!-- Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="Header" />
+</div>
 
-<p align="center">
+<!-- Animated Subtitle -->
+<div align="center">
   <a href="https://github.com/PushkarShinde">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=500&pause=1000&multiline=true&width=500&height=80&lines=My+Tech+Stack:;Java+%7C+C+%7C+ReactJS+%7C+Spring+%7C+TypeScript+%7C+SpringBoot;Docker+%7C+SQL+%7C+Kubernetes+%7C+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Cloud+Native+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
   </a>
-  <br/>
-  <a href="https://github.com/PushkarShinde">
-      <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<!-- Quick Stats Badges -->
+<p align="center">
+  <a href="https://github.com/PushkarShinde?tab=followers">
+    <img src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=PushkarShinde&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/PushkarShinde?tab=repositories">
+    <img src="https://img.shields.io/github/stars/PushkarShinde?label=Stars&style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -21,42 +31,66 @@
 
 ```typescript
 const pushkar = {
-    college_university: "MNNIT Allahabad, India",
-    education: "MCA in Computer Science and Engineering",
+    university: "MNNIT Allahabad, India",
+    education: "MCA in Computer Science & Engineering",
     currentCPI: 8.34,
-    role: "Java Developer",
-    
+    role: "Java Developer | Backend Engineer",
+
     currentFocus: [
-        "System Design & Architecture",
-        "Spring framework and Spring Boot", 
+        "System Design & Distributed Architecture",
+        "Spring Boot Microservices",
         "Data Structures & Algorithms",
-        "AI/ML Integration",
+        "Cloud-Native Development",
         "Open Source Contributions"
     ],
-    
-    funFact: "I turn coffee into Applications ☕ → 💻"
+
+    funFact: "I debug with console.log and I'm not sorry",
+    motto: "Ship fast, break nothing, learn everything"
 };
 ```
 
 ---
 
-## Languages & Tech
+## Tech Arsenal
 
-<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-<img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
-<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Maven" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img align="left" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="ReactJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<br/><br/>
+<div align="center">
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
+
+#### Databases & Infra
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
+</p>
+
+</div>
 
 ---
 
@@ -69,22 +103,20 @@ const pushkar = {
 <td width="50%">
 
 <h3 align="center">AI Fitness Application</h3>
-<div align="center">  
-<img style="margin: 8px" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img style="margin: 8px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img style="margin: 8px" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img style="margin: 8px" src="https://img.shields.io/badge/Keycloak-0075A8?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
-<img style="margin: 8px" src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
-<img style="margin: 8px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<br><br>
-Architected a scalable multi-microservices fitness platform with Spring Boot, Gemini API, Eureka, Spring Cloud Gateway, RabbitMQ, &
-PostgreSQL.
-<br><br>
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Keycloak-0075A8?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+<p>
+Scalable multi-microservices fitness platform powered by <b>Spring Boot</b>, <b>Gemini API</b>, <b>Eureka</b>, <b>Spring Cloud Gateway</b>, <b>RabbitMQ</b> & <b>PostgreSQL</b>.
+</p>
 <a href="https://github.com/PushkarShinde/AI-Fitness-App" target="_blank">
-<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="" target="_blank"> <!--Add the hosted link here-->
-<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
 </a>
 </div>
 
@@ -93,23 +125,20 @@ PostgreSQL.
 
 <h3 align="center">Expense Tracker</h3>
 <div align="center">
-<img style="margin: 10px; padding:10px;" src="https://img.shields.io/badge/C%20language%20-%20blue%20" alt="C" />
-<img style="margin: 10px; padding:10px;" src="https://img.shields.io/badge/AES%20Crypto%20-%20Green" alt="AES Crypto" />
-<br><br>
-Developed a secure CLI-based expense manager in pure C with full CRUD support.
-Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, protected by password decryption at launch.
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/AES--256--CBC-2ea44f?style=flat-square&logo=gnuprivacyguard&logoColor=white" alt="AES Crypto" />
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" />
+</p>
+<p>
+Secure CLI-based expense manager in <b>pure C</b> with full CRUD support. Uses <b>AES-256-CBC</b> encryption via <b>OpenSSL</b> for encrypted binary data storage, protected by password authentication.
+</p>
 <a href="https://github.com/PushkarShinde/expense-tracker" target="_blank">
-<img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/PushkarShinde/expense-tracker" target="_blank">
-<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
 </a>
 </div>
 
 </td>
-
-
 </tr>
 </table>
 
@@ -119,82 +148,91 @@ Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, prot
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <!-- GitHub Top Languages -->
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarShinde&layout=compact&title_color=37BCF6&text_color=ffffff&bg_color=22272e" alt="Top Languages" />
-    </td>
-    <td>
-     <!-- GitHub Streak -->
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=PushkarShinde&theme=dark&background=22272e&ring=37BCF6&fire=37BCF6&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff.svg" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PushkarShinde&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PushkarShinde&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border=30363d" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <div align="center">
-<img height="240em" src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarShinde&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarShinde&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarShinde&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
-
-## Coding Journey
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/PushkarShinde?theme=dark&font=Fira%20Code&hide_border=true&ext=contest" alt="LeetCode Stats"/>
-
-</div>
-
-<!--
 
 ## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
 </picture>
--->
+
+---
+
+## Coding Journey
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/PushkarShinde?theme=dark&font=Fira+Code&border=0&radius=20&ext=contest" alt="LeetCode Stats" />
+</div>
+
 ---
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PushkarShinde&theme=gruvbox&column=6&margin-w=10&margin-h=15" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PushkarShinde&theme=algolia&column=7&margin-w=10&margin-h=15&no-frame=true" alt="Trophies" />
+</div>
 
 ---
 
-## Let's Connect!
+## Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
+</div>
+
+---
+
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pushkar-shinde-636973221/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="" target="_blank"> <!--Add portfolio website link here-->
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+&nbsp;
 <a href="mailto:pushkarshinde249@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;
 <a href="https://www.instagram.com/pushkarshinde__/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+&nbsp;
 <a href="https://twitter.com/PushkarShinde16" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
+&nbsp;
 <a href="https://www.hackerrank.com/profile/pushkarshinde249" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/PushkarShinde" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 </div>
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Rainbow Divider" />
-<!-- Hidden Profile Links -->
 
-[website]: https://www.novypro.com/profile_projects/pushkarshinde
-[twitter]: https://twitter.com/PushkarShinde16
-[linkedin]: https://www.linkedin.com/in/pushkar-shinde-636973221/
-[youtube]: #
-[course]: #
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" alt="Footer" />
+</div>
