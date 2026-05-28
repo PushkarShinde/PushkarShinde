@@ -1,12 +1,20 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="Header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,50:d2e3fc,100:e8f0fe&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=1a73e8&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=5f6368&descAlignY=55&animation=fadeIn" />
+    <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+  </picture>
 </div>
 
 <!-- Animated Subtitle -->
 <div align="center">
   <a href="https://github.com/PushkarShinde">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Cloud+Native+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Cloud+Native+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Cloud+Native+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6" />
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Cloud+Native+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6" />
+    </picture>
   </a>
 </div>
 
@@ -15,14 +23,18 @@
 <!-- Quick Stats Badges -->
 <p align="center">
   <a href="https://github.com/PushkarShinde?tab=followers">
-    <img src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github" alt="GitHub Followers" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github&logoColor=white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=1a73e8&labelColor=e8f0fe&logo=github&logoColor=333" />
+      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/PushkarShinde?label=Followers&style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github" />
+    </picture>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=PushkarShinde&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/PushkarShinde?tab=repositories">
-    <img src="https://img.shields.io/github/stars/PushkarShinde?label=Stars&style=for-the-badge&color=58a6ff&labelColor=1a1b27&logo=github" alt="GitHub Stars" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=PushkarShinde&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=1a1b27" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=PushkarShinde&label=Profile+Views&color=1a73e8&style=for-the-badge&labelColor=e8f0fe" />
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=PushkarShinde&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=1a1b27" />
+  </picture>
 </p>
 
 ---
@@ -149,24 +161,31 @@ Secure CLI-based expense manager in <b>pure C</b> with full CRUD support. Uses <
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PushkarShinde&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PushkarShinde&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border=30363d" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=0d1117&tc=58a6ff&ic=c9d1d9&bc=30363d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=ffffff&tc=1a73e8&ic=5f6368&bc=d0d7de" />
+    <img width="49%" alt="GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=PushkarShinde&cc=0d1117&tc=58a6ff&ic=c9d1d9&bc=30363d" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PushkarShinde&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border=30363d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PushkarShinde&theme=default&background=ffffff&ring=1a73e8&fire=e8710a&currStreakLabel=1a73e8&currStreakNum=24292f&sideNums=24292f&sideLabels=5f6368&dates=5f6368&border=d0d7de" />
+    <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=PushkarShinde&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border=30363d" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkarShinde&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarShinde&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PushkarShinde&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PushkarShinde&theme=github-light&bg_color=ffffff&color=1a73e8&line=1a73e8&point=24292f&area_color=1a73e8&area=true&hide_border=true" />
+    <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PushkarShinde&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true" />
+  </picture>
 </div>
 
 ---
 
+<!-- Contribution Snake - Uncomment after running the snake workflow from Actions tab
 ## Contribution Snake
 
 <picture>
@@ -176,19 +195,16 @@ Secure CLI-based expense manager in <b>pure C</b> with full CRUD support. Uses <
 </picture>
 
 ---
+-->
 
 ## Coding Journey
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/PushkarShinde?theme=dark&font=Fira+Code&border=0&radius=20&ext=contest" alt="LeetCode Stats" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PushkarShinde&theme=algolia&column=7&margin-w=10&margin-h=15&no-frame=true" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/PushkarShinde?theme=dark&font=Fira+Code&border=0&radius=20&ext=contest" />
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/PushkarShinde?theme=light&font=Fira+Code&border=0&radius=20&ext=contest" />
+    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/PushkarShinde?theme=dark&font=Fira+Code&border=0&radius=20&ext=contest" />
+  </picture>
 </div>
 
 ---
@@ -196,7 +212,11 @@ Secure CLI-based expense manager in <b>pure C</b> with full CRUD support. Uses <
 ## Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  </picture>
 </div>
 
 ---
@@ -234,5 +254,9 @@ Secure CLI-based expense manager in <b>pure C</b> with full CRUD support. Uses <
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" alt="Footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe,50:d2e3fc,100:e8f0fe&height=120&section=footer" />
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
+  </picture>
 </div>
