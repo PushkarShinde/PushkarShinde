@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const pushkar = {
@@ -40,7 +40,7 @@ const pushkar = {
 
 ---
 
-## 💻 Languages & Tech
+## Languages & Tech
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -60,7 +60,7 @@ const pushkar = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, prot
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -138,7 +138,7 @@ Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, prot
 
 ---
 
-## 📈 Coding Journey
+## Coding Journey
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, prot
 
 <!--
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PushkarShinde/PushkarShinde/output/github-contribution-grid-snake-dark.svg" />
@@ -158,7 +158,7 @@ Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, prot
 -->
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PushkarShinde&theme=gruvbox&column=6&margin-w=10&margin-h=15" />
@@ -166,7 +166,7 @@ Employed AES-256-CBC encryption via OpenSSL for secure binary data storage, prot
 
 ---
 
-## 🌐 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
