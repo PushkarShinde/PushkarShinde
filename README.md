@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4c6ef5%2C50:7048e8%2C100:9775fa&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=e0e0e0&descAlignY=55" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f0fe%2C50:d2e3fc%2C100:c8d6f0&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=1a73e8&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=5f6368&descAlignY=55" />
-    <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c6ef5,50:7048e8,100:9775fa&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=e0e0e0&descAlignY=55" />
+    <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c6ef5,50:7048e8,100:9775fa&height=220&section=header&text=Pushkar%20Shinde&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=e0e0e0&descAlignY=55" />
   </picture>
 </div>
 
